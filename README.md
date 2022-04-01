@@ -1,2 +1,1 @@
-# sevfar
-sevfar
+print("HELLO WORLD")
